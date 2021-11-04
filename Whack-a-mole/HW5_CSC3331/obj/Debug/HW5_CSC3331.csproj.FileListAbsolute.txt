@@ -1,0 +1,20 @@
+C:\Users\dipak-laptop-sfasu\Source\Repos\HW5_CSC3331\HW5_CSC3331\obj\Debug\HW5_CSC3331.csprojAssemblyReference.cache
+C:\Users\dipak-laptop-sfasu\Source\Repos\HW5_CSC3331\HW5_CSC3331\obj\Debug\HW5_CSC3331.Form1.resources
+C:\Users\dipak-laptop-sfasu\Source\Repos\HW5_CSC3331\HW5_CSC3331\obj\Debug\HW5_CSC3331.Properties.Resources.resources
+C:\Users\dipak-laptop-sfasu\Source\Repos\HW5_CSC3331\HW5_CSC3331\obj\Debug\HW5_CSC3331.csproj.GenerateResource.cache
+C:\Users\dipak-laptop-sfasu\Source\Repos\HW5_CSC3331\HW5_CSC3331\obj\Debug\HW5_CSC3331.csproj.CoreCompileInputs.cache
+C:\Users\dipak-laptop-sfasu\Source\Repos\HW5_CSC3331\HW5_CSC3331\bin\Debug\HW5_CSC3331.exe.config
+C:\Users\dipak-laptop-sfasu\Source\Repos\HW5_CSC3331\HW5_CSC3331\bin\Debug\HW5_CSC3331.exe
+C:\Users\dipak-laptop-sfasu\Source\Repos\HW5_CSC3331\HW5_CSC3331\bin\Debug\HW5_CSC3331.pdb
+C:\Users\dipak-laptop-sfasu\Source\Repos\HW5_CSC3331\HW5_CSC3331\obj\Debug\HW5_CSC3331.exe
+C:\Users\dipak-laptop-sfasu\Source\Repos\HW5_CSC3331\HW5_CSC3331\obj\Debug\HW5_CSC3331.pdb
+C:\Users\gothi\Desktop\Fall 2020\CSCI 3331\Homework\Assignment 6\HW5_CSC3331\HW5_CSC3331\HW5_CSC3331\bin\Debug\HW5_CSC3331.exe.config
+C:\Users\gothi\Desktop\Fall 2020\CSCI 3331\Homework\Assignment 6\HW5_CSC3331\HW5_CSC3331\HW5_CSC3331\bin\Debug\HW5_CSC3331.exe
+C:\Users\gothi\Desktop\Fall 2020\CSCI 3331\Homework\Assignment 6\HW5_CSC3331\HW5_CSC3331\HW5_CSC3331\bin\Debug\HW5_CSC3331.pdb
+C:\Users\gothi\Desktop\Fall 2020\CSCI 3331\Homework\Assignment 6\HW5_CSC3331\HW5_CSC3331\HW5_CSC3331\obj\Debug\HW5_CSC3331.csprojAssemblyReference.cache
+C:\Users\gothi\Desktop\Fall 2020\CSCI 3331\Homework\Assignment 6\HW5_CSC3331\HW5_CSC3331\HW5_CSC3331\obj\Debug\HW5_CSC3331.Form1.resources
+C:\Users\gothi\Desktop\Fall 2020\CSCI 3331\Homework\Assignment 6\HW5_CSC3331\HW5_CSC3331\HW5_CSC3331\obj\Debug\HW5_CSC3331.Properties.Resources.resources
+C:\Users\gothi\Desktop\Fall 2020\CSCI 3331\Homework\Assignment 6\HW5_CSC3331\HW5_CSC3331\HW5_CSC3331\obj\Debug\HW5_CSC3331.csproj.GenerateResource.cache
+C:\Users\gothi\Desktop\Fall 2020\CSCI 3331\Homework\Assignment 6\HW5_CSC3331\HW5_CSC3331\HW5_CSC3331\obj\Debug\HW5_CSC3331.csproj.CoreCompileInputs.cache
+C:\Users\gothi\Desktop\Fall 2020\CSCI 3331\Homework\Assignment 6\HW5_CSC3331\HW5_CSC3331\HW5_CSC3331\obj\Debug\HW5_CSC3331.exe
+C:\Users\gothi\Desktop\Fall 2020\CSCI 3331\Homework\Assignment 6\HW5_CSC3331\HW5_CSC3331\HW5_CSC3331\obj\Debug\HW5_CSC3331.pdb
